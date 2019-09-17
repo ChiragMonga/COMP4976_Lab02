@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
 namespace AspMvcFire.Controllers
-{C:\Users\chira\Documents\Term4\COMP4976\Week03_Lab03\AspMvcFire\Controllers\ProcessController.cs
+{
     public class ProcessController : Controller
     {
         public IActionResult Index()
